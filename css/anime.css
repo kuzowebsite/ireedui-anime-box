@@ -36,9 +36,6 @@ html{
     width: 200px;
 }
 
-.search{
-    width: 120px;
-}
 
 header{
     top: 0;
@@ -308,3 +305,15 @@ text-shadow: 0 -1px 0 rgba(0, 0, 0, .3);
 }
  
  
+.nevth{
+float: right;
+cursor: pointer;
+width: 700px;
+font: bold 30px/40px 'lucida sans', 'trebuchet MS', 'Tahoma';
+color: white;
+
+
+}
+.nevth:hover{
+    color: #ff0000;
+}
